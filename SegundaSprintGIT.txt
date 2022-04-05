@@ -1,4 +1,4 @@
-Olá, apresentando o git.
+Olá, apresentando o git. Forçando o conflito na stagging
 
 Olá, eu sou uma nova linha !
 
