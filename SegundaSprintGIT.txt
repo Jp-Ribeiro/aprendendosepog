@@ -1,4 +1,4 @@
-Olá, apresentando o git.
+Olá, apresentando o git.  forçando o erro
 
 Olá, eu sou uma nova linha !
 
