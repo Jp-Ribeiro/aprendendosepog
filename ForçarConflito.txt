@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Olá, meu Nome é João.
+=======
+Estou na SEPOG
+>>>>>>> staging

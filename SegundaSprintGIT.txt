@@ -1,14 +1,18 @@
-<<<<<<< HEAD
 Olá, apresentando o git.  forçando o erro
 
 Olá, eu sou uma nova linha !
 
 
 Meu nome é João Paulo
-=======
+
 Olá, apresentando o git. Forçando o conflito na stagging
 
 Olá, eu sou uma nova linha !
 
 Olá, meu nome é João.
->>>>>>> staging
+
+Olá, apresentando o git. Forçando o conflito na stagging
+
+Olá, eu sou uma nova linha !
+
+Olá, meu nome é João.
